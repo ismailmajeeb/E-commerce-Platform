@@ -52,11 +52,7 @@ Welcome to Power Store (Formerly Grand Store), the open-source multi-store e-com
 - Advanced reporting and analytics.
 - Expanded support for additional payment gateways.
 - Integration with third-party services.
-- 
-### Version 1.2.0  (Future Release)
-- Creating Mobile Applications.
-- Add Auctions Feature.
-- Integration with GoHigh Level.
+
 
 ## Getting Started (Developer)
 
